@@ -1,5 +1,7 @@
 Loan Payment Optimizer
 ======================
+
+### 🔗 [Click to View the App]
 https://loanoptimizer-jnavarre.streamlit.app/
 
 Description:
